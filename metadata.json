@@ -1,0 +1,6 @@
+{
+  "name": "S&R WebLab – Criação de Sites Profissionais",
+  "description": "Agência especializada na criação de sites profissionais e de alta conversão para empresas que desejam acelerar seu faturamento, com opção de entrega no mesmo dia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
